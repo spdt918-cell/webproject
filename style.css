@@ -1,0 +1,22 @@
+
+body {margin: 0; padding: 0;
+background-image: url(images/background1crop.jpeg);
+background-repeat: no-repeat;
+background-size: cover;padding: 10px;}
+
+.box-p {margin:auto;
+background-color: whitesmoke;
+padding: 10px;
+border: 3px solid gray;
+width:auto;
+height:auto;
+box-sizing: border-box;}
+
+.margin-modifier {margin-left: 50px;margin-right: 50px;}
+
+.table-border
+table, tr, td {
+  border: 1px solid gray;
+  border-collapse: collapse;
+}
+
