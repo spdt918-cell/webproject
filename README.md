@@ -22,4 +22,4 @@ It explores AI, machine learning, and ethics, while demonstrating basic front-en
 ---
 
 ## Preview
-![Homepage Screenshot](screenshot.png)
+![Homepage Screenshot](homepage.png)
