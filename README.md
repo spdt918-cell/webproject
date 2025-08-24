@@ -22,4 +22,4 @@ It explores AI, machine learning, and ethics, while demonstrating basic front-en
 ---
 
 ## Preview
-![Homepage Screenshot](images/Neon%20City%201.jpeg)
+![Homepage Screenshot](screenshot.png)
